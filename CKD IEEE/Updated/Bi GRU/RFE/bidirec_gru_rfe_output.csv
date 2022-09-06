@@ -1,0 +1,9 @@
+Bidirec_GRU_false,Bidirec_GRU_true,Bidirec_GRU_prediction_accuracy
+0.0,0.0,0.84
+0.0,0.7692307692307693,0.78
+1.0,1.0,0.68
+,,0.7
+,,0.78
+,,1.0
+,,1.0
+,,1.0

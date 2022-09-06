@@ -1,0 +1,8 @@
+Algorithm Name,Accuracy,Precision,Recall,F1 Score
+ANN,97%,97%,98%,97%
+LSTM,79%,81%,84%,79%
+Bidirectional LSTM,79%,81%,84%,79%
+GRU,79%,81%,84%,79%
+Bidirectional GRU,86%,86%,89%,86%
+Simple RNN,95%,94%,96%,95%
+Multi-Layer Perceptron,96%,95%,97%,96%

@@ -1,0 +1,8 @@
+Algorithm Name,Accuracy,Precision,Recall,F1 Score
+ANN,0.99,0.98,0.99,0.99
+LSTM,0.86,0.86,0.89,0.86
+BiLSTM,0.88,0.87,0.90,0.87
+GRU,0.84,0.84,0.88,0.83
+BiGRU,0.84,0.84,0.88,0.83
+SimpleRNN,0.97,0.97,0.98,0.97
+ MLP,0.96,0.95,0.97,0.96
